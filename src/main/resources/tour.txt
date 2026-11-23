@@ -1,0 +1,5 @@
+Harry Potter; Guia; 56912345678; Puerto Varas
+Hermione Granger; Operador; 569325648971; Frutillar
+Ron Wesley; Guia; 569325648797; Llanquihue
+Minerva Mcgonall; Guia; 569458736891; Puerto Varas
+Albus Dublendore; Operador; 569784523158; Puerto Montt
